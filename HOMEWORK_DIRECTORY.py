@@ -14,7 +14,7 @@ def Main():
         elif user_answer == "5":
             copy_contact(file_name)
         elif user_answer == "0":
-            print("Спасибо, пока!")
+            print("Спасибо, пока!!")
             flag = False
 
 def print_contact(contact_list):
